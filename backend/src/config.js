@@ -55,8 +55,8 @@ const METADATA_UPDATABLE = true; // set to false if you don't want to allow meta
 const OWNER_ADDRESS = '0xBaAbeF8BFF440EA286303Ab965100684B7293bD6';
 const TREASURY_ADDRESS = '0xBaAbeF8BFF440EA286303Ab965100684B7293bD6';
 
-const MAX_SUPPLY = 1000; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
-const MINT_PRICE = .0001; // Minting price per NFT. goreli = ETH, Polygon = MATIC. CANNOT BE UPDATED!
+const MAX_SUPPLY = 7500; // The maximum number of NFTs that can be minted. CANNOT BE UPDATED!
+const MINT_PRICE = .0005; // Minting price per NFT. goreli = ETH, Polygon = MATIC. CANNOT BE UPDATED!
 const TOKENS_PER_MINT = 20; // maximum number of NFTs a user can mint in a single transaction. CANNOT BE UPDATED!
 
 // REQUIRED CONTRACT DETAILS THAT CAN BE UPDATED LATER.
